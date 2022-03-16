@@ -12,5 +12,9 @@ namespace CreateTable
         static void Main(string[] args)
         {
         }
+        public void createtable()
+        {
+
+        }
     }
 }
